@@ -4,7 +4,7 @@
 
 #### This repository provides a setup to create and manage AWS services locally using LocalStack. It is designed to help you experiment, learn, and build personal projects without requiring a connection to the actual AWS environment. Whether you're learning cloud development, testing, or building small-scale applications, this repo offers a local AWS environment for streamlined workflows and cost-effective experimentation.
 
-##### Prerequicites
+##### Prerequisites
 
 1) python - [https://www.python.org/downloads/](https://)
 2) Docker - [https://www.docker.com/products/docker-desktop/](https://)
